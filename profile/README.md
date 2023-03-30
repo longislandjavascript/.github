@@ -1,3 +1,3 @@
 # Long Island JavaScript
 
-![](./logo.png)
+![](../logo.png)
