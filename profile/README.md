@@ -11,7 +11,7 @@ Long Island JavaScript is a Meetup group in the Long Island, NY area. We meet on
 
 We are grateful to our sponsors for their support. If you are interested in sponsoring our group, please [get in touch](https://www.lijs.org/contact).
 
-<div style="display:flex;align-items:center;flex-wrap:wrap;gap:15px;">
+<div style="display:flex;align-items:center;align-content:center;flex-wrap:wrap;gap:15px;">
   <a href="https://launchpadli.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/longislandjavascript/.github/main/public/sponsors/launchpad.png" alt="LaunchPad Huntington" />
   </a>
