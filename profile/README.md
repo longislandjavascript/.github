@@ -13,6 +13,27 @@ We are grateful to our sponsors for their support. If you are interested in spon
 
 
 
-[![LaunchPad Huntington](https://raw.githubusercontent.com/longislandjavascript/.github/main/public/sponsors/launchpad.png)](https://launchpadli.com/)
-[![O'Reilly](https://raw.githubusercontent.com/longislandjavascript/.github/main/public/sponsors/oreilly.png)](https://www.oreilly.com/)
-[![Long Island Claims](https://raw.githubusercontent.com/longislandjavascript/.github/main/public/sponsors/long-island-claims.png)](https://www.longislandclaims.com/)
+<a href="https://launchpadli.com/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/longislandjavascript/.github/main/public/sponsors/launchpad.png" 
+    alt="LaunchPad Huntington" 
+    height="80" 
+    width="200" 
+  />
+</a>
+<a href="https://www.oreilly.com/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/longislandjavascript/.github/main/public/sponsors/oreilly.png" 
+    alt="O'Reilly" 
+    height="80" 
+    width="200" 
+  />
+</a>
+<a href="https://www.longislandclaims.com/" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://raw.githubusercontent.com/longislandjavascript/.github/main/public/sponsors/long-island-claims.png" 
+    alt="Long Island Claims" 
+    height="80" 
+    width="200" 
+  />
+</a>
